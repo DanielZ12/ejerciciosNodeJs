@@ -38,4 +38,4 @@ function range_vision(e) {
     return result_de_verda.includes(true) ? true : false
 }
 
-range_vision(34335)
+range_vision(34315)
